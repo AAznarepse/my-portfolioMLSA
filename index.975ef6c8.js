@@ -27090,9 +27090,9 @@ var _stylesCss = require("./styles.css");
     name: "Mariana Mart\xednez",
     title: "Web Designer & Physics Engineering Student",
     email: "sr.gutierrez154@gmail.com",
-    gitHub: "AAznarepse",
-    instagram: "anairamaznarepse",
-    linkedIn: "mariana-esperanza-mart",
+    gitHub: "/AAznarepse",
+    instagram: "https://instagram.com/anairamaznarepse",
+    linkedIn: "www.linkedin.com/in/mariana-esperanza-martinez",
     medium: "",
     twitter: "AAznarepse",
     youTube: "Code"
