@@ -27,11 +27,11 @@ const siteProps = {
   name: "Mariana Martínez",
   title: "Web Designer & Physics Engineering Student",
   email: "sr.gutierrez154@gmail.com",
-  gitHub: "https://github.com/AAznarepse",
-  instagram: "https://instagram.com/anairamaznarepse",
-  linkedIn: "https://www.linkedin.com/in/mariana-esperanza-mart%C3%ADnez-guti%C3%A9rrez-0b9962191",
+  gitHub: "AAznarepse",
+  instagram: "anairamaznarepse",
+  linkedIn: "mariana-esperanza-mart",
   medium: "",
-  twitter: "https://twitter.com/AAznarepse",
+  twitter: "AAznarepse",
   youTube: "Code",
 };
 
